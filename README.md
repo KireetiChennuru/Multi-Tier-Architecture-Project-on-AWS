@@ -82,10 +82,6 @@ This project demonstrates a multi-tier architecture using various AWS services. 
 - Summarize the key points of the project.
 - Mention any challenges faced and how they were overcome.
 
-## References
-
-- List any references or resources used during the project.
-
 ## Author
 
-- Provide your name and contact information (optional).
+- Kireeti Chennuru | www.linkedin.com/in/kireeti-chennuru
