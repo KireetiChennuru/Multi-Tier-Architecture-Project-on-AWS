@@ -6,47 +6,47 @@ This project demonstrates a multi-tier architecture using various AWS services. 
 
 ## Architecture Diagram
 
-![Architecture Diagram](link-to-architecture-diagram)
+![Architecture Diagram](https://live.staticflickr.com/65535/53885655402_a866fad2a5_k.jpg)
 
 ## AWS Services Used
 
 ### Amazon SQS (Simple Queue Service)
 **Purpose**: To decouple the components of a distributed application.
 
-![Amazon SQS Queue](path-to/Amazon-SQS-Queue.jpg)
+![Amazon SQS Queue](https://live.staticflickr.com/65535/53886982255_393c99f84d_k.jpg)
 
 ### Amazon SNS (Simple Notification Service)
 **Purpose**: To send notifications from the application.
 
-![Amazon SNS](path-to/Amazon-SNS.jpg)
+![Amazon SNS](https://live.staticflickr.com/65535/53885650482_2f1fadd921_k.jpg)
 
 ### API Gateway
 **Purpose**: To create and publish APIs.
 
-![API Gateway](path-to/API-Gateway.jpg)
+![API Gateway](https://live.staticflickr.com/65535/53886790623_00a699f698_k.jpg)
 
 ### DynamoDB
 **Purpose**: To store application data.
 
-![DynamoDB Table](path-to/DynamoDB-Table.jpg)
+![DynamoDB Table](https://live.staticflickr.com/65535/53885650397_3153e85321_k.jpg)
 
 ### IAM Policies
 **Purpose**: To manage permissions for various AWS services.
 
-![IAM Policies](path-to/IAM-Policies.jpg)
+![IAM Policies](https://live.staticflickr.com/65535/53885650387_7c2a069ee1_k.jpg)
 
 ### IAM Roles
 **Purpose**: To assign permissions to AWS services.
 
-![IAM Roles](path-to/IAM-Roles.jpg)
+![IAM Roles](https://live.staticflickr.com/65535/53886564001_a43b634abd_k.jpg)
 
 ### AWS Lambda
 **Purpose**: To run backend code without provisioning or managing servers.
 
-![POC - Lambda - 1](path-to/POC-Lambda-1.jpg)
-![POC - Lambda - 2](path-to/POC-Lambda-2.jpg)
-![Lambda Test Event Successful](path-to/Lambda-Test-Event-Successful.jpg)
-![Configure Test Event](path-to/Configure-Test-Event.jpg)
+![POC - Lambda - 1](https://live.staticflickr.com/65535/53885650312_418ad18ee6_k.jpg)
+![POC - Lambda - 2](https://live.staticflickr.com/65535/53886563956_a09ee93d0a_k.jpg)
+![Lambda Test Event Successful](https://live.staticflickr.com/65535/53886563981_9636fddf81_k.jpg)
+![Configure Test Event](https://live.staticflickr.com/65535/53886790598_01fddf1bb4_k.jpg)
 
 ## Step-by-Step Guide
 
