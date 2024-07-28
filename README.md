@@ -68,7 +68,7 @@ This project demonstrates a multi-tier architecture using various AWS services. 
 - Configure the Lambda function to interact with DynamoDB, SQS, and SNS.
 - Test the end-to-end flow.
 
-## Code
+## Policies
 
 - Include any relevant code snippets or links to the full code files in your repository.
 
