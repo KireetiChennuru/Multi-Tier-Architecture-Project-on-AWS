@@ -6,7 +6,7 @@ This project demonstrates a multi-tier architecture using various AWS services. 
 
 ## Architecture Diagram
 
-![Architecture Diagram](https://live.staticflickr.com/65535/53885655402_a866fad2a5_k.jpg)
+![Architecture Diagram](https://live.staticflickr.com/65535/53899875198_0486ec367c_k.jpg)
 
 ## AWS Services Used
 
