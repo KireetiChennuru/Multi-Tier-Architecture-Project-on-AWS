@@ -1,4 +1,4 @@
-# Multi-Tier Architecture Project on AWS
+# Designing a Serverless Web Backend on AWS
 
 ## Overview
 
